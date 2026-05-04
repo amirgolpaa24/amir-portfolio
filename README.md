@@ -11,6 +11,7 @@ Personal portfolio website for showcasing my software development, research, geo
 
 ## Development
 
+Install dependencies:
+
 ```bash
 npm install
-npm run dev

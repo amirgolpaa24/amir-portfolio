@@ -3,18 +3,18 @@ import Section from "@/components/ui/Section";
 const contactLinks = [
   {
     label: "Email",
-    value: "your-email@example.com",
-    href: "mailto:your-email@example.com",
+    value: "amirgolpaa24@gmail.com",
+    href: "mailto:amirgolpaa24@gmail.com",
   },
   {
     label: "LinkedIn",
-    value: "linkedin.com/in/your-profile",
-    href: "https://www.linkedin.com/in/your-profile",
+    value: "linkedin.com/in/amir-golpayegani-218148165",
+    href: "https://www.linkedin.com/in/amir-golpayegani-218148165",
   },
   {
     label: "GitHub",
-    value: "github.com/your-username",
-    href: "https://github.com/your-username",
+    value: "github.com/amirgolpaa24",
+    href: "https://github.com/amirgolpaa24",
   },
 ];
 

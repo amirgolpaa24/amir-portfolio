@@ -7,7 +7,7 @@ type SectionProps = {
 
 export default function Section({ id, eyebrow, title, children }: SectionProps) {
   return (
-    <section id={id} className="mx-auto max-w-6xl px-6 py-24">
+    <section id={id} className="scroll-mt-24 mx-auto max-w-6xl px-6 py-24">
       {eyebrow && (
         <p className="mb-3 text-sm uppercase tracking-[0.25em] text-slate-500">
           {eyebrow}

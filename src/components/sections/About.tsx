@@ -2,19 +2,12 @@ import Section from "@/components/ui/Section";
 
 export default function About() {
   return (
-    <Section id="about" eyebrow="About" title="Building practical software from research-driven ideas.">
+    <Section id="about" eyebrow="About" title="A brief overview of my background and interests.">
       <div className="grid gap-8 md:grid-cols-[1.2fr_0.8fr]">
         <div className="space-y-5 text-base leading-8 text-slate-300">
           <p>
-            I am a software developer and data scientist with a background in
-            computer science, computer graphics, geospatial systems, and
-            research-oriented software development.
-          </p>
-
-          <p>
-            My work has focused on managing and visualizing large-scale earth
-            observation data, discrete global grid systems, satellite imagery,
-            and machine learning workflows for terrain and spatial data.
+            I am a software developer with a background in computer science, data
+            science, geospatial systems, visualization, and machine learning.
           </p>
 
           <p>

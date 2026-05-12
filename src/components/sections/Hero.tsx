@@ -10,9 +10,8 @@ export default function Hero() {
       </h1>
 
       <p className="mt-6 max-w-2xl text-lg leading-8 text-slate-300">
-        Software developer and data scientist with experience in geospatial
-        systems, earth observation data, computer graphics, and research-driven
-        software development.
+        Software Developer with a background in data science, machine learning,
+        geospatial systems, and visualization.
       </p>
 
       <div className="mt-10 flex flex-wrap gap-4">
